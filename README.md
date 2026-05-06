@@ -6,4 +6,4 @@
 
 new text in one repository
 
-all new text, not keeping anything old
+more fuel to the fire of a merge conflict
