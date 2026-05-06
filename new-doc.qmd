@@ -7,4 +7,8 @@ format: pdf
 
 ## Packages
 
+<<<<<<< HEAD
 ## Actually I changed my mind
+=======
+## No, the header should be called header
+>>>>>>> refs/remotes/origin/main
