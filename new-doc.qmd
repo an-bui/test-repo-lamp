@@ -16,5 +16,3 @@ library(tidyverse)
 
 
 ## Data
-
-maybe just call it data
