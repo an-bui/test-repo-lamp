@@ -1,5 +1,5 @@
 ---
-title: "new doc"
+title: "New doc"
 author: "your name here"
 format: pdf
 ---
@@ -8,11 +8,5 @@ format: pdf
 
 ## Packages
 
-```{r}
-#| label: packages
+## Data
 
-library(tidyverse)
-```
-
-
-## Just data then
