@@ -6,4 +6,4 @@
 
 new text in one repository
 
-more fuel to the fire of a merge conflict
+stop creating merge conflicts by pulling and communicating!
