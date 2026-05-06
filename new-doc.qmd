@@ -1,0 +1,18 @@
+---
+title: "new doc"
+author: "your name here"
+format: pdf
+---
+
+# 1. Set up
+
+## Packages
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
+
+## Data
