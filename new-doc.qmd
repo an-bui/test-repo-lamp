@@ -1,0 +1,10 @@
+---
+title: "new doc"
+format: pdf
+---
+
+# 1. Set up
+
+## Packages
+
+## Data
