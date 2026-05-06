@@ -6,4 +6,4 @@
 
 new text in one repository
 
-replacing text in different repo
+all new text, not keeping anything old
