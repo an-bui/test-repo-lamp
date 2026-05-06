@@ -4,4 +4,4 @@
 
 ## new
 
-new text in another repository
+new text in one repository
