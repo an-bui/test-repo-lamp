@@ -7,4 +7,4 @@ format: pdf
 
 ## Packages
 
-## I think this header should be called something else
+## No, the header should be called header
