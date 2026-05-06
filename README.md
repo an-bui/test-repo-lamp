@@ -6,4 +6,4 @@
 
 new text in one repository
 
-trying again with more text
+deleting text and adding new text without pulling
