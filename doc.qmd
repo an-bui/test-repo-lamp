@@ -1,0 +1,14 @@
+---
+title: "doc"
+format: pdf
+---
+
+# 1. Set up
+
+## Packages
+
+This is where we read in packages
+
+## Data
+
+This is where we read in data
